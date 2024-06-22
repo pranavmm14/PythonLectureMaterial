@@ -47,3 +47,73 @@ Given the list `temperatures = [72, 68, 75, 70, 69, 80, 78, 74, 73, 71]`, write 
 1. Calculate and print the average temperature.
 2. Create a new list that contains only the temperatures that are above the average temperature.
 3. Print the list of temperatures above average.
+
+---
+
+### Question 9: Sales Data Analysis
+
+You have monthly sales data for a store. Your task is to analyze this data:
+
+1. Create a list of monthly sales data.
+2. Calculate and print the total sales for the year.
+3. Calculate and print the average monthly sales.
+4. Find and print the month with the highest sales.
+5. Find and print the month with the lowest sales.
+6. Print the names of all months where sales were above the average monthly sales.
+
+**Example Input:**
+```python
+months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+sales = [1200, 1500, 1100, 1800, 2300, 2200, 1700, 2100, 1600, 1900, 2000, 2500]
+```
+
+**Example Output:**
+```
+Total sales for the year: 21900
+Average monthly sales: 1825.0
+Month with the highest sales: December
+Month with the lowest sales: March
+Months with sales above average:
+February
+April
+May
+June
+August
+October
+November
+December
+```
+
+---
+### Question 10: Movie Ratings Analysis
+
+You have data on movie ratings given by a group of friends. Each friend rates several movies on a scale from 1 to 10. Your task is to analyze this data:
+
+1. Create a list of movie ratings for each friend.
+2. Calculate and print the total number of ratings given by all friends.
+3. Calculate and print the average rating for each movie.
+4. Identify and print the highest rating for each movie.
+5. Identify and print the lowest rating for each movie.
+6. Count and print the number of movies that have an average rating of 8 or above.
+
+**Example Input:**
+```python
+friends = ["Ravi", "Sita", "Amit", "Priya", "Rahul"]
+ratings = [
+    [8, 7, 9, 6, 8],  # Ravi's ratings
+    [7, 8, 7, 5, 6],  # Sita's ratings
+    [8, 9, 8, 7, 9],  # Amit's ratings
+    [6, 6, 7, 8, 7],  # Priya's ratings
+    [9, 8, 7, 9, 8]   # Rahul's ratings
+]
+```
+**Example Output:**
+```
+Total number of ratings given by all friends: 25
+Average ratings for each movie: [7.6, 7.6, 7.6, 7.0, 7.6]
+Highest ratings for each movie: [9, 9, 9, 9, 9]
+Lowest ratings for each movie: [6, 6, 7, 5, 6]
+Number of movies with an average rating of 8 or above: 0
+```
+
+---
