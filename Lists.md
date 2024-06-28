@@ -170,3 +170,8 @@ print("Squares of even numbers 0-9:", even_squares)
 ```
 - [x ** 2 for x in range(10)] creates a list of squares of numbers from 0 to 9.
 - [x ** 2 for x in range(10) if x % 2 == 0] creates a list of squares of even numbers from 0 to 9.
+
+---
+&copy; Pranav Mehendale, Yashashri Computers, Kothrud, Pune 2024. All rights reserved. This material is for non-commercial use only.
+
+---

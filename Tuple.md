@@ -160,4 +160,7 @@ tuple_time = timeit.timeit(stmt="(1, 2, 3, 4, 5)", number=1000000)
 print(f"List time: {list_time}")
 print(f"Tuple time: {tuple_time}")
 ```
+---
+&copy; Pranav Mehendale, Yashashri Computers, Kothrud, Pune 2024. All rights reserved. This material is for non-commercial use only.
 
+---

@@ -51,4 +51,6 @@
    - You are optimizing delivery routes for a logistics company. Given a list of delivery stops with their coordinates, `stops = [("Stop1", (40.7128, -74.0060)), ("Stop2", (34.0522, -118.2437)), ("Stop3", (41.8781, -87.6298))]`, and the starting point `(37.7749, -122.4194)`, determine the order of stops that minimizes the total travel distance using the Euclidean distance formula. Print the optimal order of stops.
 
 ---
+&copy; Pranav Mehendale, Yashashri Computers, Kothrud, Pune 2024. All rights reserved. This material is for non-commercial use only.
 
+---

@@ -61,3 +61,7 @@ e. Bitwise 3bit right shift 18 \
 6 XOR 1\
 5 XOR 1\
 
+---
+&copy; Pranav Mehendale, Yashashri Computers, Kothrud, Pune 2024. All rights reserved. This material is for non-commercial use only.
+
+---

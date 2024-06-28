@@ -48,3 +48,8 @@ Given a string `s`, compress the string based on the count of consecutive identi
 **Example Input/Output:**
 - Input: `"aabbbccc"`
 - Output: `"a2b3c3"`
+
+---
+&copy; Pranav Mehendale, Yashashri Computers, Kothrud, Pune 2024. All rights reserved. This material is for non-commercial use only.
+
+---

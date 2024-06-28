@@ -1,7 +1,8 @@
 # Python List Operations Assignment No. 3
 
 
-*Proprietary Notice: All Rights Reserved by Yashashri Computers MKCL*
+
+&copy; Pranav Mehendale, Yashashri Computers, Kothrud, Pune 2024. All rights reserved. This material is for non-commercial use only.
 
 ---
 

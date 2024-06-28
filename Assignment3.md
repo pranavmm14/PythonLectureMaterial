@@ -117,3 +117,6 @@ Number of movies with an average rating of 8 or above: 0
 ```
 
 ---
+&copy; Pranav Mehendale, Yashashri Computers, Kothrud, Pune 2024. All rights reserved. This material is for non-commercial use only.
+
+---
