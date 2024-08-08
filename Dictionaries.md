@@ -181,3 +181,6 @@ print(len(my_dict))  # Output: 3
 # Example: Getting the string representation of the dictionary
 print(str(my_dict))  # Output: {'name': 'Alice', 'age': 26, 'country': 'USA'}
 ```
+&copy; Pranav Mehendale, Yashashri Computers, Kothrud, Pune 2024. All rights reserved. This material is for non-commercial use only.
+
+---

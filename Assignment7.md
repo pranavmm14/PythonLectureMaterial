@@ -77,3 +77,8 @@
 2. Write a Python script to:
     - Read the contents of `data.csv` and print each row.
     - Add a new row `David, 40` to `data.csv`.
+
+---
+&copy; Pranav Mehendale, Yashashri Computers, Kothrud, Pune 2024. All rights reserved. This material is for non-commercial use only.
+
+---

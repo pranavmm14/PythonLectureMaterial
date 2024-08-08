@@ -138,3 +138,8 @@ print(f"math.isfinite(1.0): {math.isfinite(1.0)}")
 print(f"math.isnan(math.nan): {math.isnan(math.nan)}")
 print()
 ```
+
+---
+&copy; Pranav Mehendale, Yashashri Computers, Kothrud, Pune 2024. All rights reserved. This material is for non-commercial use only.
+
+---

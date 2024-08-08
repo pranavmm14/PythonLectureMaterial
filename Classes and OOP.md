@@ -264,3 +264,6 @@ Encapsulation is the bundling of data and methods that operate on the data withi
 Encapsulation helps protect an object’s internal state and improves code maintainability and flexibility.
 
 ---
+&copy; Pranav Mehendale, Yashashri Computers, Kothrud, Pune 2024. All rights reserved. This material is for non-commercial use only.
+
+---

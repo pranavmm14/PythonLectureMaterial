@@ -152,3 +152,6 @@ with zipfile.ZipFile('example.zip', 'w') as zipf:
 with zipfile.ZipFile('example.zip', 'r') as zipf:
     zipf.extractall('extracted_files')
 ```
+&copy; Pranav Mehendale, Yashashri Computers, Kothrud, Pune 2024. All rights reserved. This material is for non-commercial use only.
+
+---

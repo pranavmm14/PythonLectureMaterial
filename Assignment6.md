@@ -136,3 +136,6 @@ flights = {
 - Update the value of seats directly by assigning a new number.
 
 ---
+&copy; Pranav Mehendale, Yashashri Computers, Kothrud, Pune 2024. All rights reserved. This material is for non-commercial use only.
+
+---

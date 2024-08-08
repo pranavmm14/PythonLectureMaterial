@@ -50,3 +50,8 @@ Determine:
 - The courses that are common across all three types.
 - The courses that are only in one category.
 - The courses that are in at least two categories but not in all three.
+
+---
+&copy; Pranav Mehendale, Yashashri Computers, Kothrud, Pune 2024. All rights reserved. This material is for non-commercial use only.
+
+---
